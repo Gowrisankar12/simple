@@ -9,6 +9,7 @@ public class Rbibank extends sample {
 		d.saving();
 		d.icicbank();
 		d.indianbank();
+		System.out.println("kanann");
 	}
 
 }
